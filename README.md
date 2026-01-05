@@ -1,66 +1,103 @@
-## Hi, I'm Shreya 👋  
-### Turning Data into Decisions • Code into Systems
+👋 Hi, I'm Shreya Mane  
+Data Analyst · Python Developer · Quant Enthusiast  
 
-Final-year Computer Science student exploring the intersection of  
-📊 **Data Analytics**, 📈 **Quantitative Research**, and 💻 **Software Engineering**.  
-I enjoy transforming raw data into insights and building Python-based systems that scale.
+Turning **data into insights** and **code into reliable systems**.
 
 ---
 
-### 🧠 What defines my work
-- Think **analytically**, build **systematically**
-- Comfortable with **data → logic → code → outcome**
-- Focused on **clarity, performance, and real-world impact**
+🚀 About Me  
+Final-year Computer Science student passionate about building data-driven and scalable solutions.
+
+- Strong foundation in **Python & SQL** for data analysis and backend development  
+- Experience with **data cleaning, automation, and dashboarding**  
+- Interested in **quantitative research, strategy backtesting, and financial analytics**  
+- Comfortable owning tasks end-to-end and writing clean, production-ready code  
+- Actively preparing for **Data Analyst & Software Engineer** roles  
 
 ---
 
-### 🛠️ My Tech Universe
-
-#### 📊 Data Analytics & Quant
-- **Python, SQL**
-- Pandas, NumPy
-- Power BI, Matplotlib
-- Excel (Analysis & Reporting)
-- EDA • KPI Tracking • Backtesting (learning)
-- Market Data & Financial Analytics (interest-driven)
-
-#### 💻 Software Engineering
-- Python (Core, OOP)
-- Flask (Basics) • REST APIs
-- SQL Databases
-- Automation & Data Pipelines
-- Git • GitHub • Clean Code Practices
+📊 GitHub Stats  
+*(Add GitHub stats card here)*
 
 ---
 
-### 🚀 What I’m building
-- 📈 Interactive **data dashboards** & analytics reports  
-- 🧮 **Strategy backtesting engines** & performance metrics  
-- ⚙️ **Automation scripts** for data workflows  
-- 🔗 **Backend services & APIs** using Python
+🛠️ Tech Stack  
+
+### 📊 Data Analytics
+- Python (Pandas, NumPy)  
+- SQL (MySQL / PostgreSQL – basics)  
+- Power BI, Matplotlib  
+- Excel (Reporting, KPI Analysis)  
+- EDA, Automation, Backtesting (Learning)
+
+### 💻 Software Engineering
+- Python (Core, OOP)  
+- Flask (Basics), REST APIs  
+- SQL Databases  
+- Data Pipelines & Automation Scripts  
+- Git, GitHub
+
+### 📈 Quant & Finance (Learning)
+- Market Data Analysis  
+- Strategy Metrics: P&L, Drawdown, Sharpe Ratio  
+- Order Flow & Volume-based Concepts  
 
 ---
 
-### 🧩 Featured Work
-- 📊 **Sales Analytics Command Center**  
-- 📈 **Quant Strategy Backtesting (Python)**  
-- ⚙️ **Automated Data Cleaning Pipelines**  
-- 🔧 **Flask-Based Backend Utilities**
-
-*(Each project includes clean code, documentation, and reproducible steps.)*
+🧠 What I’m Working On
+- 📊 Analytics dashboards & insight reports  
+- 🧮 Strategy backtesting engines in Python  
+- ⚙️ Automated data workflows  
+- 🔗 Backend services & APIs  
 
 ---
 
-### 🌱 Currently learning
+💻 Featured Projects  
+
+📈 Sales Analytics Dashboard  
+- Business KPI analysis and visualization  
+- Automated data cleaning & reporting  
+- Tech: Python, SQL, Power BI  
+
+🧮 Strategy Backtesting Engine  
+- Simulated trading strategies with performance metrics  
+- P&L, drawdown, Sharpe ratio computation  
+- Tech: Python (Pandas, NumPy)  
+
+⚙️ Data Cleaning & Automation Pipelines  
+- Reusable Python scripts for preprocessing & reporting  
+- Reduced manual effort through automation  
+- Tech: Python, SQL  
+
+🔗 Flask-Based Backend Utilities  
+- REST APIs for data access and processing  
+- Modular code with clean structure  
+- Tech: Flask, Python, SQL  
+
+---
+
+🏢 Experience  
+
+AI / Data Analytics Intern  
+- Worked on data preprocessing, analysis, and automation  
+- Built analytical workflows and reusable Python modules  
+- Collaborated using Git and documented solutions clearly  
+
+---
+
+🌱 Currently Learning
 - Advanced SQL & query optimization  
-- Quantitative trading concepts & order flow  
-- Writing production-ready Python
+- Quantitative trading & market microstructure  
+- Writing scalable, production-grade Python  
 
 ---
 
-### 🤝 Let’s connect
-- LinkedIn: https://www.linkedin.com/in/shreyamane1573/
-- Email: shreyamane107@gmail.com
+🔗 Connect With Me  
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: your@email.com  
 
-⭐ Always open to internships, entry-level roles, and collaborative projects.
+---
 
+🐍 Contribution Snake  
+
+Consistency > Motivation.
